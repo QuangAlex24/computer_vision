@@ -36,7 +36,7 @@ def restore_img(img_noise):
 
 
 if __name__== "__main__":
-    url ="https://raw.githubusercontent.com/QuangAlex24/image/main/3fec97bdacdc22827bcd.jpg"
+    url ="https://raw.githubusercontent.com/QuangAlex24/computer_vision/refs/heads/main/4656ef3a2b5ba505fc4a.jpg"
     
     img = read_image_from_github(url)
   
